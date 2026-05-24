@@ -1,0 +1,6 @@
+timestamp,table_name,files_count,execution_time_agg,execution_time_single
+2026-05-20 21:31:33,my_catalog.default.user_events_unsorted,31,29.4685,1.8497
+2026-05-20 21:32:06,my_catalog.default.user_events_sorted,4682,29.5531,1.4962
+2026-05-20 22:02:38,my_catalog.default.user_events_unsorted,549,12.3008,6.5216
+2026-05-20 22:02:59,my_catalog.default.user_events_sorted,71082,120.1894,3.7424
+2026-05-20 22:35:05,my_catalog.default.user_events_unsorted,1198,18.1497,9.9687
